@@ -1,13 +1,8 @@
 <div align="center">
 
-# React, Redux, TypeScript - RealWorld App
+# React, Redux, TypeScript - App
 
 ## 🚧🚧🚧 UNDER CONSTRUCTION 🚧🚧🚧
-
-### **LIVE DEMO: [LINK](https://react-redux-typescript-realworld-app.netlify.com/)**
-
-_Reference implementation of RealWorld [JAMStack](https://jamstack.org/) Application based on ["React, Redux, TypeScript Guide"](https://github.com/piotrwitek/react-redux-typescript-guide)
-and [Create React App v3.0](https://facebook.github.io/create-react-app/)._
 
 </div>
 
